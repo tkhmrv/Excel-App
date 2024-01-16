@@ -38,7 +38,7 @@
             this.clearButton = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.excelButton = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.exitButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtButton
@@ -140,16 +140,16 @@
             this.excelButton.UseVisualStyleBackColor = false;
             this.excelButton.Click += new System.EventHandler(this.ExcelButton_Click);
             // 
-            // button2
+            // exitButton
             // 
-            this.button2.BackColor = System.Drawing.Color.Coral;
-            this.button2.Location = new System.Drawing.Point(571, 341);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(145, 46);
-            this.button2.TabIndex = 14;
-            this.button2.Text = "Выход";
-            this.button2.UseVisualStyleBackColor = false;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.exitButton.BackColor = System.Drawing.Color.Coral;
+            this.exitButton.Location = new System.Drawing.Point(571, 341);
+            this.exitButton.Name = "exitButton";
+            this.exitButton.Size = new System.Drawing.Size(145, 46);
+            this.exitButton.TabIndex = 14;
+            this.exitButton.Text = "Выход";
+            this.exitButton.UseVisualStyleBackColor = false;
+            this.exitButton.Click += new System.EventHandler(this.ExitButton_Click);
             // 
             // MainForm
             // 
@@ -157,7 +157,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.ClientSize = new System.Drawing.Size(807, 440);
-            this.Controls.Add(this.button2);
+            this.Controls.Add(this.exitButton);
             this.Controls.Add(this.excelButton);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.clearButton);
@@ -186,7 +186,7 @@
         private System.Windows.Forms.Button clearButton;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button excelButton;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button exitButton;
     }
 }
 

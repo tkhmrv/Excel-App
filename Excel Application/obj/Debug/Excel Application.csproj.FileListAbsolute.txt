@@ -24,3 +24,29 @@ C:\Users\toy12\Desktop\Excel Application\Excel Application\obj\Debug\Excel Appli
 C:\Users\toy12\Desktop\Excel Application\Excel Application\obj\Debug\Excel Application.exe
 C:\Users\toy12\Desktop\Excel Application\Excel Application\obj\Debug\Excel Application.pdb
 C:\Users\toy12\Desktop\Excel Application\Excel Application\obj\Debug\ExcelApplication.MainForm.resources
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\bin\Debug\Дополнение для Excel.exe.config
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\bin\Debug\Дополнение для Excel.exe
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\bin\Debug\Дополнение для Excel.pdb
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\bin\Debug\EPPlus.dll
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\bin\Debug\EPPlus.Interfaces.dll
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\bin\Debug\EPPlus.System.Drawing.dll
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\bin\Debug\System.Buffers.dll
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\bin\Debug\System.Memory.dll
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\bin\Debug\System.Numerics.Vectors.dll
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\bin\Debug\EPPlus.xml
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\bin\Debug\System.Buffers.xml
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\bin\Debug\System.Memory.xml
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\bin\Debug\System.Numerics.Vectors.xml
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\obj\Debug\Excel Application.csproj.AssemblyReference.cache
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\obj\Debug\ExcelApplication.MainForm.resources
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\obj\Debug\Excel_Application.Properties.Resources.resources
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\obj\Debug\Excel Application.csproj.GenerateResource.cache
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\obj\Debug\Excel Application.csproj.CoreCompileInputs.cache
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\obj\Debug\Excel Application.csproj.CopyComplete
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\obj\Debug\Дополнение для Excel.exe
+C:\Это рабочий стол, короче\учеба\3 курс\C# МДК 01.01 Разработка программных модулей\Excel Application\Excel Application\obj\Debug\Дополнение для Excel.pdb
