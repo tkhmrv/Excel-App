@@ -121,5 +121,10 @@ namespace ExcelApplication
                 MessageBox.Show("Выберите существующий текстовый файл.", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
